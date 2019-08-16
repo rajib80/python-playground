@@ -6,7 +6,7 @@ def find_single_number(numbers):
     print(result)
     for i in range(1, len(numbers)):
         result = result ^ numbers[i]
-        print(result)
+        # print(result)
     
     return result
 
