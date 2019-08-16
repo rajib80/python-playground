@@ -1,3 +1,6 @@
+# Given a list of numbers, where every number shows up twice except for one number, 
+# find that one number.
+
 def find_single_number(numbers):
     result = numbers[0]
     print(result)
